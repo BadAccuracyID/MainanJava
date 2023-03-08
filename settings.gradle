@@ -2,3 +2,4 @@ rootProject.name = 'MainanJava'
 
 include 'dao'
 include 'threadPool'
+include 'throttler'
