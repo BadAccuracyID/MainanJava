@@ -7,4 +7,5 @@ include 'throttler-simpler'
 include 'tpa-mission_system'
 include 'tpa-mission_system2'
 include 'as-executor'
+include 'agre-compo'
 
