@@ -9,3 +9,5 @@ include 'tpa-mission_system2'
 include 'as-executor'
 include 'agre-compo'
 
+include 'multithread-1'
+
