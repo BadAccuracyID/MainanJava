@@ -10,4 +10,8 @@ include 'as-executor'
 include 'agre-compo'
 
 include 'multithread-1'
+include 'multithread-2'
+include 'multithread-3'
+include 'multithread-4'
+include 'multithread-5'
 
